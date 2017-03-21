@@ -1,0 +1,16 @@
+[
+{
+  "modid": "example",
+  "name": "Example Mod",
+  "description": "Example mod for testing.  From Game Dev's dice mod.",
+  "version": "$(version)",
+  "mcversion": "$(mcversion)",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ben K", "Dylan", "Xander"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

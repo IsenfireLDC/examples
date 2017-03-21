@@ -1,0 +1,8 @@
+#Blocks
+tile.die6b.name=Basic Die
+tile.die20b.name=d20
+
+#Items
+item.die6i.name=d6
+item.die20i.name=d20
+item.gui_opener.name=Gui Opener
